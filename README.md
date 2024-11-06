@@ -9,7 +9,7 @@ This repository presents the parameters and input files for the simulations of f
 
 -Topology files.
 
--Equilibrated structures of the.
+-Equilibrated structures of the pDMAEMA, pMETAC, pMEDSAH, and pSPMA bruhses.
 
 -Index files for generation of gmx mdrun input files.
 
